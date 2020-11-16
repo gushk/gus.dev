@@ -162,7 +162,7 @@ li {
 /*                      HEADER                                     */
 /*-----------------------------------------------------------------*/
 .header {
-    background: #23abd4;
+    background: #334da3;
     padding: 46px;
     position: fixed;
     height: 100%;
@@ -190,7 +190,7 @@ li {
 
 .header .name h1 {
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+    font-size: 18px;
     font-weight: 700;
     color: #FFF;
 	letter-spacing: 1px;
@@ -199,7 +199,7 @@ li {
 }
 
 .header .name span {
-    color: #d8d8e9;
+    color: #ffffff;
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     font-weight: 300;
@@ -374,7 +374,7 @@ li {
 }
 
 .main-content section .section-header h2 {
-    color: #c938b5;
+    color: #8f8f8f;
     display: inline-block;
     font-family: 'Poppins', sans-serif;
     font-size: 17px;
@@ -816,7 +816,7 @@ li {
     line-height: 1px;
     color: #fff;
     text-align: center;
-    background-color: #FFA500;
+    background-color: #995fa5;
     -webkit-box-shadow: none;
     box-shadow: none;
     -webkit-transition: width .6s ease;
